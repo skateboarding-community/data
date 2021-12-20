@@ -1,0 +1,718 @@
+[
+  {
+    "name": "Academy Skateboard Collective",
+    "description": "Connects marginalized populations to their communities by providing mentorship, training, and support, through school-based skateboard programming and outreach.",
+    "category": "collective",
+    "website": {
+      "href": "http://academyskateboardcollective.com",
+      "title": "academyskateboardcollective.com"
+    }
+  },
+  {
+    "name": "Chill",
+    "description": "Chill inspires youth to overcome challenges through boardsports.",
+    "category": "organization",
+    "website": {
+      "href": "https://www.chill.org",
+      "title": "chill.org"
+    },
+    "image": {
+      "src": "/assets/chill.jpeg"
+    },
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Burlington",
+        "addressRegion": "Vermont"
+      }
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/chillfoundation/"
+      },
+      {
+        "type": "facebook",
+        "href": "https://www.facebook.com/ChillFoundation"
+      },
+      {
+        "type": "twitter",
+        "href": "https://twitter.com/ChillFoundation"
+      }
+    ]
+  },
+  {
+    "name": "Curb",
+    "description": "Helping kids realize their potential through skateboarding. Based in Austin, Texas.",
+    "category": "organization",
+    "website": {
+      "href": "https://curbaustin.org/",
+      "title": "curbaustin.org"
+    },
+    "image": {
+      "src": "/assets/curb.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/curb.austin/"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Austin",
+        "addressRegion": "Texas"
+      }
+    }
+  },
+  {
+    "name": "Project Lifelong",
+    "description": "Empowering youth through skateboarding and outdoor adventure. Skate nights, mobile skatepark, road trips.",
+    "category": "organization",
+    "ein": "27-3457087",
+    "website": {
+      "href": "https://www.projectlifelong.org/",
+      "title": "projectlifelong.org"
+    },
+    "image": {
+      "src": "/assets/project-lifelong.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/projectlifelong/"
+      },
+      {
+        "type": "facebook",
+        "href": "https://www.facebook.com/projectlifelong"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Sacramento",
+        "addressRegion": "California"
+      }
+    }
+  },
+  {
+    "name": "Community Push",
+    "description": "Empowering youth through skateboarding and outdoor adventure. Skate nights, mobile skatepark, road trips.",
+    "category": "organization",
+    "website": {
+      "href": "https://www.communitypush.org/",
+      "title": "communitypush.org"
+    },
+    "image": {
+      "src": "/assets/community-push.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/communitypush/"
+      },
+      {
+        "type": "twitter",
+        "href": "https://twitter.com/community_push"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Detroit",
+        "addressRegion": "Michigan"
+      }
+    }
+  },
+  {
+    "name": "Skate Zimbabwe",
+    "description": "Skate Zimbabwe is a social skate project set up for the purpose of promoting the culture of skateboarding among young people in their communities.",
+    "category": "organization",
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/skate_zimbabwe/"
+      },
+      {
+        "type": "facebook",
+        "href": "https://www.facebook.com/sk8zim/"
+      }
+    ]
+  },
+  {
+    "name": "Nations Skate Youth",
+    "description": "Empowering Indigenous youth to embrace their right to self-determination through the positive impact of skateboarding.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/nations-skate-youth.jpeg"
+    },
+    "website": {
+      "href": "https://nationskateyouth.com/",
+      "title": "nationskateyouth.org"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/nationskateyouth/"
+      }
+    ]
+  },
+  {
+    "name": "Cιƚყ Rαƚȥ",
+    "description": "Cιƚყ Rαƚȥ is a black/queer/femme-owned NYC-based skate zine that seeks to showcase the creativity of BIPOC and LGBTQIA+ people in skateboarding.",
+    "category": "media",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "New York",
+        "addressRegion": "New York"
+      }
+    },
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "New York",
+        "addressRegion": "New York"
+      }
+    },
+    "links": [
+      {
+        "title": "@city_ratz on Instagram",
+        "type": "instagram",
+        "href": "https://www.instagram.com/city_ratz"
+      }
+    ]
+  },
+  {
+    "name": "Black Girls Skate",
+    "category": "organization",
+    "description": "501c3 Amplifying skaters of all style + skill level. Visibility. Safety. Equity.",
+    "ein": "85-1308011",
+    "website": {
+      "href": "https://www.blackgirlsskate.org/",
+      "title": "blackgirlsskate.org"
+    },
+    "image": {
+      "src": "/assets/black-girls-skate.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/black_girls_skate/"
+      },
+      {
+        "type": "facebook",
+        "href": "https://www.facebook.com/blackgirlsskate/"
+      },
+      {
+        "type": "twitter",
+        "href": "https://twitter.com/blackgirlsskate"
+      }
+    ],
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Woodstock",
+        "addressRegion": "Georgia"
+      }
+    },
+    "_tags": [
+      "The Black List"
+    ]
+  },
+  {
+    "name": "College Skateboarding Educational Foundation",
+    "category": "organization",
+    "description": "Through CSEF’s scholarship fund, skateboarders all over the country will be given essential assistance with completing their goals in school and in life.",
+    "ein": "81-5405423",
+    "website": {
+      "href": "https://www.collegeskateboarding.com",
+      "title": "collegeskateboarding.com"
+    },
+    "image": {
+      "src": "/assets/csef.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/csef/"
+      },
+      {
+        "type": "facebook",
+        "href": "https://www.facebook.com/CollegeSkateboarding/"
+      }
+    ],
+    "_tags": [
+      "The Black List"
+    ]
+  },
+  {
+    "name": "froSkate",
+    "description": "Women + TQGNC POC centered skate crew taking over your streets and parks! All Love. No Hate.",
+    "_tags": [
+      "The Black List"
+    ],
+    "image": {
+      "src": "/assets/froskate.png"
+    },
+    "category": "collective",
+    "website": {
+      "href": "http://www.froskate.com",
+      "title": "froskate.com"
+    },
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Chicago",
+        "addressRegion": "Illinois"
+      }
+    },
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Chicago",
+        "addressRegion": "Illinois"
+      }
+    },
+    "areaServed": "Global",
+    "links": [
+      {
+        "title": "@froskate on Instagram",
+        "type": "instagram",
+        "href": "https://www.instagram.com/froskate"
+      }
+    ]
+  },
+  {
+    "name": "Harold Hunter Foundation",
+    "description": "The Harold Hunter Foundation (HHF) is a 501(c)(3) non-profit, grassroots, skateboard community-based organization that provides support, opportunity, and advocacy for skateboarders in NYC and beyond so they can reach their full potential as skateboarders and as people.",
+    "_tags": [
+      "The Black List"
+    ],
+    "image": {
+      "src": "/assets/hhf.png"
+    },
+    "category": "organization",
+    "website": {
+      "href": "https://www.haroldhunter.org",
+      "title": "haroldhunter.org"
+    },
+    "ein": "20-5126705",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "New York",
+        "addressRegion": "New York"
+      }
+    },
+    "foundingLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "New York",
+        "addressRegion": "New York"
+      }
+    },
+    "links": [
+      {
+        "title": "@haroldhunterfoundation on Instagram",
+        "type": "instagram",
+        "href": "https://www.instagram.com/haroldhunterfoundation"
+      },
+      {
+        "title": "Harold Hunter Foundation on Facebook",
+        "type": "facebook",
+        "href": "https://www.facebook.com/haroldhunterfoundation"
+      },
+      {
+        "title": "Harold Hunter Foundation on Twitter",
+        "type": "twitter",
+        "href": "https://twitter.com/HaroldHunter"
+      }
+    ]
+  },
+  {
+    "name": "Skate Like a Girl",
+    "description": "Empower young people, especially young women, to grow into strong, confident leaders who promote and implement social equity.",
+    "category": "organization",
+    "ein": "26-2500555",
+    "image": {
+      "src": "/assets/skate-like-a-girl.png"
+    },
+    "website": {
+      "title": "skatelikeagirl.com",
+      "href": "https://www.skatelikeagirl.com"
+    },
+    "links": [
+      {
+        "title": "@skatelikeagirl on Instagram",
+        "type": "instagram",
+        "href": "https://www.instagram.com/skatelikeagirl"
+      },
+      {
+        "title": "Skate Like a Girl on Facebook",
+        "type": "facebook",
+        "href": "https://www.facebook.com/skatelikeagirl"
+      },
+      {
+        "title": "Skate Like a Girl on Twitter",
+        "type": "twitter",
+        "href": "https://twitter.com/skatelikeagirl"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Seattle",
+        "addressRegion": "Washington"
+      }
+    }
+  },
+  {
+    "name": "Skateistan",
+    "description": "Empowers children through skateboarding and education in Afghanistan, Cambodia and South Africa.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/skateistan.png"
+    },
+    "website": {
+      "href": "https://www.skateistan.org/",
+      "title": "skateistan.org"
+    },
+    "ein": "27-0729804",
+    "links": [
+      {
+        "title": "Skateistan on Instagram",
+        "href": "https://www.instagram.com/skateistan",
+        "type": "instagram"
+      },
+      {
+        "title": "Skateistan on Facebook",
+        "href": "https://www.facebook.com/skateistan",
+        "type": "facebook"
+      },
+      {
+        "title": "Skateistan on Twitter",
+        "href": "https://twitter.com/Skateistan",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "name": "Free Movement Skateboarding",
+    "description": "Empowering the local, refugee and migrant communities of Athens through skateboarding.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/free-movement.jpeg"
+    },
+    "website": {
+      "href": "https://freemovementskateboarding.com/",
+      "title": "freemovementskateboarding.com"
+    },
+    "links": [
+      {
+        "href": "https://www.instagram.com/freemovement__sb",
+        "type": "instagram"
+      },
+      {
+        "href": "https://www.facebook.com/freemovementsb",
+        "type": "facebook"
+      }
+    ]
+  },
+  {
+    "name": "The Skateroom",
+    "description": "The Skateroom exists to bring art into your life while funding social projects linking skate & education!",
+    "category": "company",
+    "website": {
+      "href": "https://theskateroom.com",
+      "title": "theskateroom.com"
+    },
+    "image": {
+      "src": "/assets/the-skateroom.jpeg"
+    },
+    "links": [
+      {
+        "href": "https://www.instagram.com/theskateroom",
+        "type": "instagram"
+      },
+      {
+        "href": "https://www.facebook.com/theskateroom",
+        "type": "facebook"
+      },
+      {
+        "href": "https://twitter.com/theskateroom",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "name": "Skate After School",
+    "description": "Skate After School is a Phoenix-based nonprofit partnering with schools to provide skateboarding instruction to underserved youth.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/skate-after-school.png"
+    },
+    "website": {
+      "href": "https://www.skateafterschool.org",
+      "title": "skateafterschool.org"
+    },
+    "links": [
+      {
+        "title": "Skate After School on Instagram",
+        "href": "https://www.instagram.com/skateafterschool",
+        "type": "instagram"
+      },
+      {
+        "title": "Skate After School on Facebook",
+        "href": "https://www.facebook.com/SkateAfterSchool",
+        "type": "facebook"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Phoenix",
+        "addressRegion": "Arizona"
+      }
+    }
+  },
+  {
+    "name": "The Ben Raemers Foundation",
+    "description": "The Ben Raemers Foundation aims to end the stigma and burden that so often clouds issues of mental health by bringing awareness of these issues and suicide to the forefront within the wider skateboarding community.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/ben-raemers.png"
+    },
+    "website": {
+      "href": "https://benraemersfoundation.com/",
+      "title": "benraemersfoundation.com"
+    },
+    "links": [
+      {
+        "title": "@thebenraemersfoundation on Instagram",
+        "href": "https://www.instagram.com/thebenraemersfoundation",
+        "type": "instagram"
+      },
+      {
+        "title": "The Ben Raemers Foundation on Twitter",
+        "href": "https://twitter.com/Benraemers_fndn",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "name": "Skate Witches",
+    "description": "for the girls. scare the boys.",
+    "category": "media",
+    "website": {
+      "href": "https://www.theskatewitches.com/",
+      "title": "theskatewitches.com"
+    },
+    "links": [
+      {
+        "title": "@theskatewitches on Instagram",
+        "href": "https://www.instagram.com/theskatewitches",
+        "type": "instagram"
+      }
+    ]
+  },
+  {
+    "name": "Skaters Vote",
+    "description": "Created with the simple goal of encouraging skateboarders to register to vote.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/skaters-vote.png"
+    },
+    "website": {
+      "href": "https://skatersvote.com/",
+      "title": "skatersvote.com"
+    },
+    "links": [
+      {
+        "title": "@skatersvote on Instagram",
+        "href": "https://www.instagram.com/skatersvote",
+        "type": "instagram"
+      }
+    ]
+  },
+  {
+    "name": "Stoked",
+    "description": "STOKED mentors kids using board sports as a tool to succeed. Closing the opportunity gap for youth. 100% graduation rate for our kids.",
+    "category": "organization",
+    "_tags": [
+      "The Black List"
+    ],
+    "image": {
+      "src": "/assets/stoked.png"
+    },
+    "website": {
+      "href": "https://www.stoked.org/",
+      "title": "stoked.org"
+    },
+    "ein": "56-2530783",
+    "links": [
+      {
+        "title": "Stoked on Instagram",
+        "href": "https://www.instagram.com/stokedorg",
+        "type": "instagram"
+      },
+      {
+        "title": "Stoked on Facebook",
+        "href": "https://www.facebook.com/STOKEDorg",
+        "type": "facebook"
+      },
+      {
+        "title": "Stoked on Twitter",
+        "href": "https://twitter.com/STOKEDorg",
+        "type": "twitter"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Brooklyn",
+        "addressRegion": "New York"
+      }
+    }
+  },
+  {
+    "name": "NEXT UP Foundation",
+    "description": "Through skateboarding and the arts, we stimulate increased interest in school, promote higher education, and present career opportunities among underserved middle and high school students.",
+    "category": "organization",
+    "image": {
+      "src": "/assets/next-up.png"
+    },
+    "website": {
+      "href": "https://nextupfoundation.org/",
+      "title": "nextupfoundation.org"
+    },
+    "links": [
+      {
+        "title": "@nextupfound on Instagram",
+        "type": "instagram",
+        "href": "https://www.instagram.com/nextupfound"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Anaheim",
+        "addressRegion": "California"
+      }
+    }
+  },
+  {
+    "name": "The Black List",
+    "description": "A Non-Comprehensive list of Black-owned brands, retailers, and organizations in skateboarding.",
+    "category": "resource",
+    "image": {
+      "src": "/assets/the-black-list.png"
+    },
+    "website": {
+      "href": "https://docs.google.com/spreadsheets/d/1hkG5OMnBbhmEqe5aasHGV74LLWRbR9wXebzVv3HWuqE/edit#gid=0",
+      "title": "THE BLACK LIST"
+    },
+    "links": [
+      {
+        "title": "@pkigongo's Original Post on Instagram",
+        "href": "https://www.instagram.com/p/CBB4wQlh-5R/",
+        "type": "instagram"
+      }
+    ],
+    "_tags": [
+      "The Black List"
+    ]
+  },
+  {
+    "name": "The Goodpush Alliance",
+    "category": "resource",
+    "description": "The Goodpush Alliance is an initiative by Skateistan to support and share knowledge among social skateboarding projects worldwide, so that we can make a bigger impact together.",
+    "website": {
+      "href": "https://www.goodpush.org/",
+      "title": "goodpush.org"
+    },
+    "image": {
+      "src": "/assets/goodpush.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/thegoodpush/"
+      },
+      {
+        "type": "facebook",
+        "href": "https://www.facebook.com/thegoodpush"
+      }
+    ]
+  },
+  {
+    "name": "The Skatepark Project",
+    "description": "Helping underserved communities create safe and inclusive public skateparks for youth.",
+    "category": "organization",
+    "ein": "33-0965889",
+    "image": {
+      "src": "/assets/the-skatepark-project.png"
+    },
+    "website": {
+      "href": "https://skatepark.org/",
+      "title": "skatepark.org"
+    },
+    "links": [
+      {
+        "title": "@theskateparkproject on Instagram",
+        "href": "https://www.instagram.com/theskateparkproject/",
+        "type": "instagram"
+      },
+      {
+        "title": "The Skatepark Project on Facebook",
+        "type": "facebook",
+        "href": "https://www.facebook.com/theskateparkproject"
+      },
+      {
+        "title": "The Skatepark Project on Twitter",
+        "type": "twitter",
+        "href": "https://twitter.com/skatepark"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Vista",
+        "addressRegion": "California"
+      }
+    }
+  }
+]

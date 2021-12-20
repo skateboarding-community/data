@@ -1,0 +1,13 @@
+{
+  "name": "@skateboarding-community/data",
+  "version": "0.0.1",
+  "private": false,
+  "main": "./index.js",
+  "license": "UNLICENSED",
+  "files":[
+    "index.js",
+    "resources.json",
+    "assets"
+  ],
+  "repository": "skateboarding-commmunity/data"
+}
