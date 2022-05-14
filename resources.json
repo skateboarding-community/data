@@ -714,5 +714,34 @@
         "addressRegion": "California"
       }
     }
-  }
+  },
+  {
+    "name": "Salad Days Of Skateboarding",
+    "description": "501c3 nonprofit supporting inclusive skateboarding communities through donations and mentorship programs worldwide.",
+    "category": "organization",
+    "ein": "85-1498356",
+    "image": {
+      "src": "/assets/salad-days.jpeg"
+    },
+    "website": {
+      "href": "https://saladdaysofskateboarding.org/",
+      "title": "saladdaysofskateboarding.org"
+    },
+    "links": [
+      {
+        "title": "@saladdaysofskateboarding on Instagram",
+        "href": "https://www.instagram.com/saladdaysofskateboarding/",
+        "type": "instagram"
+      }
+    ],
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Los Angeles",
+        "addressRegion": "California"
+      }
+    }
+  },
 ]
