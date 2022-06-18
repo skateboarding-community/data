@@ -9,6 +9,20 @@
     }
   },
   {
+    "name": "Clementine Skate",
+    "description": "a milwaukee based safe skate organization solely for women, poc and lgbtq+community/source for local skate jams+ meetup and general information 🍊🏳️‍🌈✨",
+    "category": "collective",
+    "image": {
+      "src": "/assets/clementine-skate.jpeg"
+    },
+    "links": [
+      {
+        "type": "instagram",
+        "href": "https://www.instagram.com/clementineskate/"
+      }
+    ]
+  },
+  {
     "name": "Chill",
     "description": "Chill inspires youth to overcome challenges through boardsports.",
     "category": "organization",
