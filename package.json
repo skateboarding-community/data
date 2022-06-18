@@ -1,10 +1,10 @@
 {
   "name": "@skateboarding-community/data",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "private": false,
   "main": "./index.js",
   "license": "UNLICENSED",
-  "files":[
+  "files": [
     "index.js",
     "resources.json",
     "assets"
