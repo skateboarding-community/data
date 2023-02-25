@@ -39,3 +39,16 @@ By adding a `foundingLocation` or `location` defined as a `@type: "Place"` with 
 ### Images
 
 `# todo`
+
+
+### Import Sources
+
+## [THE BLACK LIST](https://docs.google.com/spreadsheets/d/1hkG5OMnBbhmEqe5aasHGV74LLWRbR9wXebzVv3HWuqE/edit?usp=sharing)
+
+> A Non-Comprehensive list of Black-owned brands, retailers, and organizations in skateboarding
+
+**REQUIRES `GOOGLE_SHEETS_API_KEY` TO BE SET IN ENVIRONMENT**
+
+Data from the "_ORGANIZATIONS & NON PROFITS_" sheet can be imported via `scripts/import-the-black-list.ts`
+
+`npm run import:the-black-list`
