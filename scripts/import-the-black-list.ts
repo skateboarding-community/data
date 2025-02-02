@@ -26,9 +26,9 @@ const THE_BLACK_LIST = {
 
 function isThirdPartWebsite(url: string) {
   return [
-    'gofundme.com',
-    'facebook.com',
-    'list-manage.com'
+    'gofundme.com', // Go Fund Me Pages
+    'facebook.com', // Facebook Profiles
+    'list-manage.com' // GMail Mailing List
   ].find((tld) => {
     return url.includes(tld);
   });
