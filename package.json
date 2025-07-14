@@ -15,7 +15,7 @@
   },
   "repository": "skateboarding-community/data",
   "devDependencies": {
-    "@tsconfig/recommended": "^1.0.8",
+    "@tsconfig/recommended": "^1.0.10",
     "@types/node": "^22.13.0",
     "googleapis": "^144.0.0",
     "ts-node": "^10.9.2",
